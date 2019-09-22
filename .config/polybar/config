@@ -57,7 +57,7 @@ font-1 = PowerlineSymbols:pixelsize=12;1
 font-2 = siji:pixelsize=12;1
 font-3 = Unifont:style=Sans-Serif:size=12;0
 
-modules-left = pulseaudio filesystem homesystem mpd 
+modules-left = pulseaudio filesystem mpd 
 modules-center = date
 modules-right = xkeyboard wlan1 eth ext-ipv4 
 tray-position = right
